@@ -1,0 +1,1 @@
+A TUN driver that forwards your packets over (hopefully) valid DNS packets. Don't actually use this. Other people have made similar drivers before that aren't affected by the dozens of security issues present in this program (such as the lack of authentication or encryption)
